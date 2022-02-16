@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Slides from the lecture presentation.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-591j-systems-biology-fall-2004/f502e831e2e62570edbe78338f4dd8ff_l17_notes.pdf
+file: /media/courses/8-591j-systems-biology-fall-2004/f502e831e2e62570edbe78338f4dd8ff_l17_notes.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: l17_notes.pdf
 uid: f502e831-e2e6-2570-edbe-78338f4dd8ff
