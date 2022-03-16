@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Review notes of the topics covered in class.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-591j-systems-biology-fall-2004/179e6f214d469f753d981292ea230838_l12_syllabus.pdf
+file: /media/courses/8-591j-systems-biology-fall-2004/179e6f214d469f753d981292ea230838_l12_syllabus.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: l12_syllabus.pdf
 uid: 179e6f21-4d46-9f75-3d98-1292ea230838
