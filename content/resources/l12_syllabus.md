@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 7f8e6ba8-8e19-22a3-f3a4-87a8fecefc6a
 resourcetype: Document
 title: l12_syllabus.pdf
 uid: 179e6f21-4d46-9f75-3d98-1292ea230838

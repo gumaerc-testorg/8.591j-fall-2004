@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 7f8e6ba8-8e19-22a3-f3a4-87a8fecefc6a
 resourcetype: Document
 title: l3_syllabus.pdf
 uid: 25ef7d9b-0a87-3588-ba07-f9b35743f086

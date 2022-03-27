@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 7f8e6ba8-8e19-22a3-f3a4-87a8fecefc6a
 resourcetype: Document
 title: l10_syllabus.pdf
 uid: 1835ba61-9e08-06b0-f835-df7cc30f2f69
