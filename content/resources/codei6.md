@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: MATLAB? Code File associated with the Lecture Notes.
-file: /media/courses/8-591j-systems-biology-fall-2004/36f8168aba576275ca4625559443409c_CodeI6.m
+file: /courses/8-591j-systems-biology-fall-2004/36f8168aba576275ca4625559443409c_CodeI6.m
 file_type: text/plain
 learning_resource_types:
 - Readings
@@ -13,3 +13,5 @@ resourcetype: Other
 title: CodeI6.m
 uid: 36f8168a-ba57-6275-ca46-25559443409c
 ---
+MATLAB? Code File associated with the Lecture Notes.
+

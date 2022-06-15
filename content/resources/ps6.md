@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: MATLAB code file for the final problem set.
-file: /media/courses/8-591j-systems-biology-fall-2004/f87b06e9df9a6a036d99672ef41f4b78_ps6.m
+file: /courses/8-591j-systems-biology-fall-2004/f87b06e9df9a6a036d99672ef41f4b78_ps6.m
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: ps6.m
 uid: f87b06e9-df9a-6a03-6d99-672ef41f4b78
 ---
+MATLAB code file for the final problem set.
+

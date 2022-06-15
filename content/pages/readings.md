@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: 7f8e6ba8-8e19-22a3-f3a4-87a8fecefc6a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Suggested Readings in Biology
@@ -62,9 +67,9 @@ Equilibrium Binding
 Cooperativity
 {{< tdclose >}}
 {{< tdopen >}}
-Michaelis-Menten Kinetics ([PDF]({{< baseurl >}}/resources/l2_syllabus))  
+Michaelis-Menten Kinetics ({{% resource_link f2e44254-2de7-fe57-a36c-13e215b58eaf "PDF" %}})  
   
-Associated MATLAB® code file ([M]({{< baseurl >}}/resources/codei1_v2))
+Associated MATLAB® code file ({{% resource_link 73484f2a-4c6b-06c5-6434-9ed94ecc4f7d "M" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,9 +83,9 @@ Lambda Phage
 Multistability
 {{< tdclose >}}
 {{< tdopen >}}
-A Genetic Switch in Lamba Phage ([PDF]({{< baseurl >}}/resources/l3_syllabus))  
+A Genetic Switch in Lamba Phage ({{% resource_link 25ef7d9b-0a87-3588-ba07-f9b35743f086 "PDF" %}})  
   
-Associated MATLAB® code file ([M]({{< baseurl >}}/resources/codei2))  
+Associated MATLAB® code file ({{% resource_link 8ecfd11c-35dd-9cf2-dcdc-4307eb620562 "M" %}})  
   
 Hasty, Jeff, Joel Pradines, Milos Dolnik, and J. J. Collins. "Noise-based Switches and Amplifiers for Gene Expression." _Proc. Natl. Acad. Sci. USA_ 97, no. 5 (Feb 29, 2000): 2075-80.
 {{< tdclose >}}
@@ -106,7 +111,7 @@ Isaacs, Farren J., Jeff Hasty, Charles R. Cantor, and J. J. Collins. "Prediction
 Synthetic Genetic Switches
 {{< tdclose >}}
 {{< tdopen >}}
-Synthetic Genetic Switches ([PDF]({{< baseurl >}}/resources/l5_syllabus))  
+Synthetic Genetic Switches ({{% resource_link 323da28e-84ae-e576-9414-6dd8c25f2bdc "PDF" %}})  
   
 Gardner, Timothy S., Charles R. Cantor, and James J. Collins. "Construction of a Genetic Toggle Switch in _Escherichia coli_." _Nature_ 403, no. 6767 (January 20, 2000): 339-42.
 {{< tdclose >}}
@@ -120,7 +125,7 @@ Gardner, Timothy S., Charles R. Cantor, and James J. Collins. "Construction of a
 Stability Analysis
 {{< tdclose >}}
 {{< tdopen >}}
-Stability Analysis ([PDF]({{< baseurl >}}/resources/l6_syllabus))
+Stability Analysis ({{% resource_link 258909e2-1821-5c41-bc36-2002995f8f32 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -144,9 +149,9 @@ Introduction _E. coli_ Chemotaxis
 Fine-tuned versus Robust Chemotaxis Models
 {{< tdclose >}}
 {{< tdopen >}}
-Modeling Escherichia coli chemotaxis ([PDF]({{< baseurl >}}/resources/l8_syllabus))  
+Modeling Escherichia coli chemotaxis ({{% resource_link 90bd9ac4-4e3c-ca1d-0542-2580dbd85bea "PDF" %}})  
   
-Associated MATLAB® code file ([M]({{< baseurl >}}/resources/codei4))  
+Associated MATLAB® code file ({{% resource_link 4d8ba21c-4bb0-740d-4a2a-128019a2f4f4 "M" %}})  
   
 Spiro, Peter A., John S. Parkinson, and Hans G. Othmer. "A Model of Excitation and Adaptation in Bacterial Chemotaxis." _Proc. Natl. Acad. Sci. USA_ 94, no. 14 (July, 1997): 7263–68.
 {{< tdclose >}}
@@ -160,7 +165,7 @@ Spiro, Peter A., John S. Parkinson, and Hans G. Othmer. "A Model of Excitation a
 Wrapping up Chemotaxis
 {{< tdclose >}}
 {{< tdopen >}}
-Biological Oscillators ([PDF]({{< baseurl >}}/resources/l9_syllabus))
+Biological Oscillators ({{% resource_link 408b1339-148e-efb6-e98f-d7abbc6a2a07 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -172,9 +177,9 @@ Biological Oscillators ([PDF]({{< baseurl >}}/resources/l9_syllabus))
 Genetic Oscillators
 {{< tdclose >}}
 {{< tdopen >}}
-Biological Oscillators ([PDF]({{< baseurl >}}/resources/l10_syllabus))  
+Biological Oscillators ({{% resource_link 1835ba61-9e08-06b0-f835-df7cc30f2f69 "PDF" %}})  
   
-Associated MATLAB® code file ([M]({{< baseurl >}}/resources/codei6))  
+Associated MATLAB® code file ({{% resource_link 36f8168a-ba57-6275-ca46-25559443409c "M" %}})  
   
 Elowitz, Michael B., and Stanislas Leibler. "A Synthetic Oscillatory Network of Transcriptional Regulators." _Nature_ 403, no. 6767 (January 20, 2000): 335-8.
 {{< tdclose >}}
@@ -188,9 +193,9 @@ Elowitz, Michael B., and Stanislas Leibler. "A Synthetic Oscillatory Network of 
 Genetic Oscillators (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-Routh-Hurwitz ([PDF]({{< baseurl >}}/resources/l11_syllabus))  
+Routh-Hurwitz ({{% resource_link 31445dcf-d9b2-d175-acf1-6435bfa5ba8e "PDF" %}})  
   
-Associated MATLAB® code file ([M]({{< baseurl >}}/resources/routh))  
+Associated MATLAB® code file ({{% resource_link afe85a53-4252-53ad-d586-84b695188883 "M" %}})  
   
 Atkinson, Mariette R., Michael A. Savageau, Jesse T. Myers, and Alexander J. Ninfa. "Development of Genetic Circuitry Exhibiting Toggle Switch or Oscillatory Behavior in _Escherichia coli_." _Cell_ 113, no. 5 (May 30, 2003): 597-607.
 {{< tdclose >}}
@@ -204,7 +209,7 @@ Atkinson, Mariette R., Michael A. Savageau, Jesse T. Myers, and Alexander J. Nin
 Stochastic Chemical Kinetics
 {{< tdclose >}}
 {{< tdopen >}}
-The Origin and Consequences of Noise in Biochemical Systems ([PDF]({{< baseurl >}}/resources/l12_syllabus)) (Courtesy of Alexander van Oudenaarden and Mukund Thattai. Used with permission.)
+The Origin and Consequences of Noise in Biochemical Systems ({{% resource_link 179e6f21-4d46-9f75-3d98-1292ea230838 "PDF" %}}) (Courtesy of Alexander van Oudenaarden and Mukund Thattai. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -250,7 +255,7 @@ Local Excitation
 Global Inhibition Theory
 {{< tdclose >}}
 {{< tdopen >}}
-Local Excitation, Global Inhibition Model ([PDF]({{< baseurl >}}/resources/l15_syllabus))
+Local Excitation, Global Inhibition Model ({{% resource_link 18c3bfbf-2ca3-b54a-ff74-e343785e664a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -300,9 +305,9 @@ Rapid Pole-to-pole Oscillations in _E. coli_ (cont.)
 Models for Eukaryotic Gradient Sensing
 {{< tdclose >}}
 {{< tdopen >}}
-Models for Eukaryotic Gradient Sensing ([PDF]({{< baseurl >}}/resources/l19_syllabus))  
+Models for Eukaryotic Gradient Sensing ({{% resource_link 02ee1636-45fe-2de2-2bef-b4b2e4f6dfc7 "PDF" %}})  
   
-Associated MATLAB® code file ([M]({{< baseurl >}}/resources/narang))  
+Associated MATLAB® code file ({{% resource_link 626a1a3d-f514-8201-097f-7973bd68b226 "M" %}})  
   
 Narang, Atul, K. K. Subramanian, and D. A. Lauffenburger. "A Mathematical Model for Chemoattractant Gradient Sensing based on Receptor-regulated Membrane Phospholipid Signaling Dynamics." _Annals of Biomedical Engineering_ 29, no. 8 (2001): 677-91.
 {{< tdclose >}}

@@ -1,9 +1,14 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
 uid: 0dae31a7-8a6a-c85e-2929-f6624da93c65
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Lecture 25 covers Drosophila development. A good internet resource for this is [FlyMove](http://flymove.uni-muenster.de/).

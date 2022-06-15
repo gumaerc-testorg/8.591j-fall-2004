@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: MATLAB code file.
-file: /media/courses/8-591j-systems-biology-fall-2004/626a1a3df5148201097f7973bd68b226_narang.m
+file: /courses/8-591j-systems-biology-fall-2004/626a1a3df5148201097f7973bd68b226_narang.m
 file_type: text/plain
 learning_resource_types:
 - Readings
@@ -13,3 +13,5 @@ resourcetype: Other
 title: narang.m
 uid: 626a1a3d-f514-8201-097f-7973bd68b226
 ---
+MATLAB code file.
+
