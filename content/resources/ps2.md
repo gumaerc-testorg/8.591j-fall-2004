@@ -5,6 +5,7 @@ file: /courses/8-591j-systems-biology-fall-2004/8a0f3b7e7e64bdb7e46ecd512355f458
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Homework assignment consisting of 4 problems.
-

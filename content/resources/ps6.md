@@ -5,6 +5,7 @@ file: /courses/8-591j-systems-biology-fall-2004/f87b06e9df9a6a036d99672ef41f4b78
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps6.m
 uid: f87b06e9-df9a-6a03-6d99-672ef41f4b78
 ---
 MATLAB code file for the final problem set.
-

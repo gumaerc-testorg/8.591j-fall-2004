@@ -5,6 +5,7 @@ file: /courses/8-591j-systems-biology-fall-2004/f5ce96f8fa06a81db473e24c3590bba3
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Slides from the lecture presentation.
-

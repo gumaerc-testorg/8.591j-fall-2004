@@ -5,6 +5,7 @@ file: /courses/8-591j-systems-biology-fall-2004/1835ba619e0806b0f835df7cc30f2f69
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Review notes of the topics covered in class.
-

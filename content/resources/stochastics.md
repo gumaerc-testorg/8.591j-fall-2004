@@ -4,6 +4,7 @@ description: Material for Self Study.
 file: /courses/8-591j-systems-biology-fall-2004/159d6605bd53c9fdfc6ac92bf43b7515_stochastics.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -17,4 +18,3 @@ video_metadata:
   youtube_id: null
 ---
 Material for Self Study.
-
