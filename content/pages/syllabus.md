@@ -1,9 +1,14 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 75b405c1-c312-bdb1-13b0-0cbe86d5f06f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
@@ -25,7 +30,7 @@ There are three levels of complexity to Systems Biology:
 Text
 ----
 
-The [course notes]({{< baseurl >}}/pages/readings) serve as the text. For good biology reference texts, see:
+The {{% resource_link 7f8e6ba8-8e19-22a3-f3a4-87a8fecefc6a "course notes" %}} serve as the text. For good biology reference texts, see:
 
 Alberts, Bruce, et. al. _Molecular Biology of the Cell_. 4th ed. New York: Garland Science, 2002. ISBN: 9780815332183.
 
