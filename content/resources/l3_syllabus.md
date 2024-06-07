@@ -2,6 +2,7 @@
 content_type: resource
 description: Review notes of the topics covered in class.
 file: /courses/8-591j-systems-biology-fall-2004/25ef7d9b0a873588ba07f9b35743f086_l3_syllabus.pdf
+file_size: 263641
 file_type: application/pdf
 learning_resource_types:
 - Readings

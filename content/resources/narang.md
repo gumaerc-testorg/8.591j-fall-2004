@@ -2,6 +2,7 @@
 content_type: resource
 description: MATLAB code file.
 file: /courses/8-591j-systems-biology-fall-2004/626a1a3df5148201097f7973bd68b226_narang.m
+file_size: 3944
 file_type: text/plain
 learning_resource_types:
 - Readings
