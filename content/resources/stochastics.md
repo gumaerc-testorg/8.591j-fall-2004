@@ -2,6 +2,7 @@
 content_type: resource
 description: Material for Self Study.
 file: /courses/8-591j-systems-biology-fall-2004/159d6605bd53c9fdfc6ac92bf43b7515_stochastics.pdf
+file_size: 315513
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

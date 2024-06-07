@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-591j-systems-biology-fall-2004/11ce818d9490c178a28c4b0acc13733a_l11_notes.pdf
+file_size: 531891
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
