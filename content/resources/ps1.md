@@ -2,6 +2,7 @@
 content_type: resource
 description: Homework assignment consisting of 3 problems.
 file: /courses/8-591j-systems-biology-fall-2004/ea2c2be4038efed3e9cc5314a68a1ddc_ps1.pdf
+file_size: 45191
 file_type: application/pdf
 learning_resource_types:
 - Assignments

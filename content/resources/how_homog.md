@@ -2,6 +2,7 @@
 content_type: resource
 description: MATLAB? Code File associated with the Lecture Notes.
 file: /courses/8-591j-systems-biology-fall-2004/2010b6230dff40441f5811399a01d9db_how_homog.m
+file_size: 2931
 file_type: text/plain
 learning_resource_types:
 - Readings
