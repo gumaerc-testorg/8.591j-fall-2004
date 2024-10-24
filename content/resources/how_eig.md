@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: MATLAB? Code File associated with the Lecture Notes.
-file: /courses/8-591j-systems-biology-fall-2004/8e3d68094ca90979b49c8a3044368669_how_eig.m
+file: /ol-ocw-studio-app/courses/8-591j-systems-biology-fall-2004/8e3d68094ca90979b49c8a3044368669_how_eig.m
 file_size: 573
 file_type: text/plain
 learning_resource_types:
