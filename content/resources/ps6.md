@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: MATLAB code file for the final problem set.
-file: /courses/8-591j-systems-biology-fall-2004/f87b06e9df9a6a036d99672ef41f4b78_ps6.m
+file: /ol-ocw-studio-app/courses/8-591j-systems-biology-fall-2004/f87b06e9df9a6a036d99672ef41f4b78_ps6.m
 file_size: 836
 file_type: text/plain
 learning_resource_types:
