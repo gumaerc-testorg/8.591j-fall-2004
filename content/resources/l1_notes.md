@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Slides for the introductory lecture presentation.
-file: /courses/8-591j-systems-biology-fall-2004/52f781a002dc7c134d8ad49e404f37fd_l1_notes.pdf
+file: /ol-ocw-studio-app/courses/8-591j-systems-biology-fall-2004/52f781a002dc7c134d8ad49e404f37fd_l1_notes.pdf
 file_size: 754536
 file_type: application/pdf
 learning_resource_types:
