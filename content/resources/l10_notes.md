@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Slides from the lecture presentation.
-file: /ol-ocw-studio-app/courses/8-591j-systems-biology-fall-2004/a91d9ea9a826495da118622af7f27297_l10_notes.pdf
+file: /courses/8-591j-systems-biology-fall-2004/a91d9ea9a826495da118622af7f27297_l10_notes.pdf
 file_size: 278158
 file_type: application/pdf
 learning_resource_types:
