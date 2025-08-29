@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: MATLAB code file.
-file: /courses/8-591j-systems-biology-fall-2004/afe85a53425253add58684b695188883_routh.m
+file: /ol-ocw-studio-app/courses/8-591j-systems-biology-fall-2004/afe85a53425253add58684b695188883_routh.m
 file_size: 410
 file_type: text/plain
 learning_resource_types:

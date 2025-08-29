@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Review notes of the topics covered in class.
-file: /courses/8-591j-systems-biology-fall-2004/31445dcfd9b2d175acf16435bfa5ba8e_l11_syllabus.pdf
+file: /ol-ocw-studio-app/courses/8-591j-systems-biology-fall-2004/31445dcfd9b2d175acf16435bfa5ba8e_l11_syllabus.pdf
 file_size: 304048
 file_type: application/pdf
 learning_resource_types:

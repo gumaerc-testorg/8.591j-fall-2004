@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Homework assignment consisting of 4 problems.
-file: /courses/8-591j-systems-biology-fall-2004/761c71a8f6fff615cc4e862eab7e5997_ps4.pdf
+file: /ol-ocw-studio-app/courses/8-591j-systems-biology-fall-2004/761c71a8f6fff615cc4e862eab7e5997_ps4.pdf
 file_size: 116200
 file_type: application/pdf
 learning_resource_types:
