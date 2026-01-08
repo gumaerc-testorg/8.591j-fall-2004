@@ -11,12 +11,12 @@ video_metadata:
   youtube_id: null
 ---
 
-Lecture 25 covers Drosophila development. A good internet resource for this is {{% resource_link "3df917fb-1361-49f0-8772-0b95d57defac" "FlyMove" %}}.
+Lecture 25 covers Drosophila development. A good internet resource for this is [FlyMove](http://flymove.uni-muenster.de/).
 
 MATLAB® Reference
 -----------------
 
-The best way to learn MATLAB® is to just play with it. Another option is to work through the official {{% resource_link "e2d2c59f-4f4a-47f7-b65a-9de0054b3028" "online tutorial" %}}.
+The best way to learn MATLAB® is to just play with it. Another option is to work through the official [online tutorial](http://www.mathworks.com/academia/student_center/tutorials.html).
 
 Suggested MATLAB® Reference Texts
 ---------------------------------
